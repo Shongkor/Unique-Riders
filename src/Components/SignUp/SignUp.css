@@ -1,0 +1,21 @@
+.inputField{
+    height: 40px;
+    width: 60%;
+    margin: 19px;
+    border: 1px solid wheat;
+    border-radius: 10px;
+}
+.link{
+   
+}
+.regFormColor{
+    background-color: beige;
+}
+.google{
+    color: rgb(30, 253, 30);
+    font-size: 24px;
+    margin-right: 10px;
+}
+.success{
+    color: green;
+}

@@ -1,0 +1,16 @@
+.loginStyle{
+    padding-top: 150px;
+    padding-bottom: 220px;
+    background-color: rgb(199, 199, 243);
+}
+.inputField{
+    height: 40px;
+    width: 60%;
+    margin: 19px;
+    border: 1px solid wheat;
+    border-radius: 10px;
+}
+.succsess{
+    color: green;
+    font-weight: bold;
+}

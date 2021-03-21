@@ -1,0 +1,27 @@
+.input{
+    height: 34px;
+    width: 200px;
+    border : 1px solid rgb(243, 84, 84);
+    border-radius: 10px;
+}
+button{
+    margin-left: 10px;
+}
+.detailsForm{
+    margin-top:3px;
+    padding-top: 75px;
+    padding-bottom: 60px;
+    border-radius: 20px;
+    margin-left: 3px;
+}
+.desContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 20px;
+}
+.icon{
+    font-size: 35px;
+}
+
+    
